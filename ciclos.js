@@ -45,8 +45,3 @@ function execute(){
     document.f_ciclos.Mostrarprocedimiento.value=procedimiento
 
 }
-
-function resetear(){
-    valor1=""
-    valor2=""
-}
